@@ -90,3 +90,16 @@
     flex-direction: column;
   }
 }
+.profilePic {
+  border-radius: 50%;
+  overflow: hidden; 
+}
+.footer {
+  text-align: center;
+  margin: 2rem 0;
+  color: #666;
+}
+.post {
+  text-align: center;
+  margin: 2rem 0;
+}
